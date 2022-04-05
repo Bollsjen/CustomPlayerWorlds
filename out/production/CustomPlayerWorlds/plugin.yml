@@ -1,0 +1,12 @@
+name: CustomPlayerWorld
+author: Magnus Boll Jensen
+version: 1.0.0
+api-version: 1.18
+main: dk.bollsjen.customplayerworlds.CustomPlayerWorld
+commands:
+  genWorld:
+    description: Generates a new world
+    usage: /<command> <name>
+  goToWorld:
+    description: Go to a world
+    usage: /<command> <name>
